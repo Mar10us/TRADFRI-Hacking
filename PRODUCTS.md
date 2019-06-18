@@ -17,11 +17,11 @@ This list is a collection of the IKEA TRÅDFRI products, and their relevant tech
 | LED1623G12 | E27 | likely |
 | LED1624G9 | E27 | likely |
 | LED1536G5 | E14 | likely |
+| LED1649C5 | E14 | no |
 | LED1537R6 | GU10 | yes (#3) |
 | LED1650R5 | GU10 | no |
 
-TRÅDFRI Module pinout:
-
+Beside Vcc and gnd the bulbs have the following pins of the TRÅDFRI Module connected: 
 * PA1 -> unused (but soldered)
 * PB13 -> LED driver
 
