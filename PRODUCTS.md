@@ -10,7 +10,7 @@ This list is a collection of the IKEA TRÅDFRI products, and their relevant tech
 ## Lighting products
 
 | product | socket | potting |
-|---------|--------|---------|
+|:--------|--------|:--------|
 | LED1545G12 | E27 | likely | 
 | LED1546G12 | E27 | likely |
 | LED1622G12 | E27 | likely |
@@ -37,6 +37,20 @@ Power usage:
 Measured using a Voltcraft 3000 energy monitor.
 
 ## Accessories
+
+Overview
+
+| productcode | type |
+|:------------|:-----|
+| E1524 | Remote controller |
+| E1525 | Motion sensor |
+| E1526 | Gateway |
+| ICTC-G-1 | Wireless dimmer |
+| ICPSLC24-10NA | LED output controller/dimmer |
+| ICPSHC24-10EU-IL-1 | 10W LED driver/dimmer |
+| ICPSHC24-30EU-IL-1 | 30W LED driver/dimmer |
+| L1529 | FLOALT 60x60 |
+
 
 ### E1524 (Remote controller)
 
@@ -100,7 +114,7 @@ Pinout:
 * F1  - SWDIO      - TP2
 * F2  - SWO        - TP3
 * F3  - DBG        - TP4
-*       RESET      - TP5
+* xx  - RESET      - TP5
 
 ### ICPSLC24-10NA (LED output controller/dimmer)
 
