@@ -50,6 +50,8 @@ Overview
 | ICPSHC24-10EU-IL-1 | 10W LED driver/dimmer |
 | ICPSHC24-30EU-IL-1 | 30W LED driver/dimmer |
 | L1529 | FLOALT 60x60 |
+| E1746 | Signal Repeater |
+| E1603 | Control Outlet |
 
 
 ### E1524 (Remote controller)
@@ -156,3 +158,12 @@ TRÅDFRI Module pinout (incomplete):
 
 [Source](https://tweakers.net/nieuws/135893/ikea-komt-met-leddriver-om-geintegreerde-verlichting-slim-te-maken.html)
 [Source](https://imgur.com/gallery/bDTRQ)
+
+
+### E1746 (Signal Repeater)
+
+todo
+
+### E1603 (Control Outlet)
+
+todo
