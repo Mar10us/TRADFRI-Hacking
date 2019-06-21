@@ -183,6 +183,8 @@ todo
 
 todo
 
+[teardown](https://diystuff.nl/tradfri/ikea-tradfri-wall-outlet-switch)
+
 ### L1530 (JORMLIEN), L1531 (BESTÅ / SURTE)
 
 todo
