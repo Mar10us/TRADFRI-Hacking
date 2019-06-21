@@ -17,9 +17,9 @@ This list is a collection of the IKEA TRÅDFRI products, and their relevant tech
 | LED1623G12 | E27 | likely |
 | LED1624G9 | E27 | likely |
 | LED1536G5 | E14 | likely |
-| LED1649C5 | E14 | no |
+| LED1649C5 | E14 | no (see [teardown](/teardowns/LED1649C5) ) |
 | LED1537R6 | GU10 | yes (#3) |
-| LED1650R5 | GU10 | no |
+| LED1650R5 | GU10 | no (see [teardown](/teardowns/LED1650R5) )|
 
 Beside Vcc and gnd the bulbs have the following pins of the TRÅDFRI Module connected: 
 * PA1 -> unused (but soldered)
@@ -101,6 +101,8 @@ Details:
 
 * Power supply: USB 5V 1A
 
+[teardown](/teardowns/E1526)
+
 ### ICTC-G-1 (Wireless dimmer)
 
 Pinout: 
@@ -123,6 +125,9 @@ Pinout:
 * F3  - DBG        - TP4
 * xx  - RESET      - TP5
 
+[schematics](/teardowns/ICTC-G-1/schematics)
+
+
 ### ICPSLC24-10NA (LED output controller/dimmer)
 
 Details:
@@ -140,13 +145,20 @@ TRÅDFRI Module pinout (incomplete/unverified):
 * PF0: Pin 2 on header
 * PF1: Pin 3 on header
 
+[teardown](/teardowns/ICPSLC24-10NA/images) and [schematics](/teardowns/ICPSLC24-10NA/schematics)
+
 ### ICPSHC24-10EU-IL-1 (10W LED driver/dimmer)
 
-10 Watt Power supply with the 24 V output being controlled by ICPSLC24-10NA
+10 Watt Power supply with the 24 V output being controlled by ICPSLC24-10NA.
+
+[teardown](/teardowns/ICPSHC24-10EU-IL-1)
+
 
 ### ICPSHC24-30EU-IL-1 (30W LED driver/dimmer)
 
-30 Watt Power supply with the 24 V output being controlled by ICPSLC24-10NA
+30 Watt Power supply with the 24 V output being controlled by ICPSLC24-10NA.
+
+[teardown](/teardowns/ICPSHC24-30EU-IL-1)
 
 ### L1527 (FLOALT 30x30), L1528 (FLOALT 30x90), L1529 (FLOALT 60x60)
 
@@ -161,9 +173,7 @@ TRÅDFRI Module pinout (incomplete):
 * PB1: PWM2
 * PB13: PWM1
 
-[Source](https://tweakers.net/nieuws/135893/ikea-komt-met-leddriver-om-geintegreerde-verlichting-slim-te-maken.html)
-[Source](https://imgur.com/gallery/bDTRQ)
-
+[Source1](https://tweakers.net/nieuws/135893/ikea-komt-met-leddriver-om-geintegreerde-verlichting-slim-te-maken.html) and [Source2](https://imgur.com/gallery/bDTRQ)
 
 ### E1746 (Signal Repeater)
 
