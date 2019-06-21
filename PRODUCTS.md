@@ -23,7 +23,8 @@ This list is a collection of the IKEA TRÅDFRI products, and their relevant tech
 
 Beside Vcc and gnd the bulbs have the following pins of the TRÅDFRI Module connected: 
 * PA1 -> unused (but soldered)
-* PB13 -> LED driver
+* PB13 -> LED driver 1
+* PB12 -> LED driver 2
 
 Power usage:
 
@@ -49,9 +50,13 @@ Overview
 | ICPSLC24-10NA | LED output controller/dimmer |
 | ICPSHC24-10EU-IL-1 | 10W LED driver/dimmer |
 | ICPSHC24-30EU-IL-1 | 30W LED driver/dimmer |
+| L1527 | FLOALT 30x30 |
+| L1528 | FLOALT 30x90 |
 | L1529 | FLOALT 60x60 |
 | E1746 | Signal Repeater |
 | E1603 | Control Outlet |
+| L1530 | JORMLIEN |
+|	L1531 | BESTÅ / SURTE |
 
 
 ### E1524 (Remote controller)
@@ -143,7 +148,7 @@ TRÅDFRI Module pinout (incomplete/unverified):
 
 30 Watt Power supply with the 24 V output being controlled by ICPSLC24-10NA
 
-### L1529 (FLOALT 60x60)
+### L1527 (FLOALT 30x30), L1528 (FLOALT 30x90), L1529 (FLOALT 60x60)
 
 Details:
 
@@ -165,5 +170,9 @@ TRÅDFRI Module pinout (incomplete):
 todo
 
 ### E1603 (Control Outlet)
+
+todo
+
+### L1530 (JORMLIEN), L1531 (BESTÅ / SURTE)
 
 todo
