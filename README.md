@@ -19,16 +19,20 @@ If we take a simple GU10 light bulb, it contains:
 
 * Power supply
 * LED driver
-* IKEA TRÅDFRI module
+* IKEA TRÅDFRI module ICC-1
 
 The tiny IKEA TRÅDFRI module is used in many of their products, and is actually a small piece of circuit board with pins exposed. This board uses the energy-efficient Silicon Labs [EFR32MG1P132F256GM32](https://www.silabs.com/products/wireless/mesh-networking/efr32mg-mighty-gecko-zigbee-thread-soc/device.efr32mg1p132f256gm32) microcontroller (MCU), which is a ARM Cortex M4 with 256 KiB of flash and 32 KiB of memory.
+
+IKEA made a [manual](https://fccid.io/FHO-ICC-1/User-Manual/User-Manual-3055710) how to use this module in a product. This includes a dimension drawing:
+
+![dimensions ICC-1](images/dimensions-icc1.png)
 
 You can take out the board, and hook it up to your own lighting solutions. Or, you can flash it with your [own firmware](#custom-firmware), for other purposes.
 
 To find relevant products, I have compiled a [list of IKEA TRÅDFRI products](PRODUCTS.md) (please help me to update this list).
 
-## Components
-I have been able to identify the following parts on a IKEA TRÅDFRI module:
+## Components of the ICC-1
+I have been able to identify the following parts on a IKEA TRÅDFRI module ICC-1:
 
 * Microcontroller: [EFR32MG1P132F256GM32](https://www.silabs.com/products/wireless/mesh-networking/efr32mg-mighty-gecko-zigbee-thread-soc/device.efr32mg1p132f256gm32)
 * 2 Mbit SPI Flash: [IS25LQ020B](http://www.issi.com/WW/pdf/25LQ025B-512B-010B-020B-040B.pdf)
@@ -40,7 +44,7 @@ I'm very certain that the SPI Flash component is correct. The original firmware 
 ## Pinout
 I found a pinout on [this website](https://tradfri.blogspot.nl).
 
-![IKEA TRÅDFRI module pinout](images/pinout.png)
+![IKEA TRÅDFRI module ICC-1 pinout](images/pinout.png)
 
 [Marco van Nieuwenhoven](https://diystuff.nl/tradfri/tradfri-zigbee-light-link-module/) has provided more information about the PCB, copper traces and the schematics on his website.
 
@@ -56,7 +60,7 @@ To connect to an external JTAG/SWD debugger, connect as follows:
 
 In my case, I could leave the module in the light bulb, but for flashing I provided my own power supply by hooking it up to the VCC line directly.
 
-I'm working on a small PCB that can host a TRÅDFRI module. You can find it in [the pcbs folder](pcbs/devboard).
+I'm working on a small PCB that can host a TRÅDFRI module ICC-1. You can find it in [the pcbs folder](pcbs/devboard).
 
 ## Software used
 You can use software like [JLink](https://www.segger.com/products/debug-probes/j-link/) or [OpenOCD](http://www.openocd.org) to flash the target.
@@ -99,11 +103,11 @@ If you want to connect an external device, ensure that it is properly isolated (
 I have designed a board that you could use to isolate UART signals. You can find it [here](pcbs/isolator).
 
 ## Pictures
-Front of the TRÅDFRI module:
+Front of the TRÅDFRI module ICC-1:
 
 ![Back of IKEA TRÅDFRI](images/front.jpg)
 
-Back of the TRÅDFRI module:
+Back of the TRÅDFRI module ICC-1:
 
 ![Front of IKEA TRÅDFRI](images/back.jpg)
 
