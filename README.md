@@ -25,7 +25,7 @@ The tiny IKEA TRÅDFRI module is used in many of their products, and is actually
 
 IKEA made a [manual](https://fccid.io/FHO-ICC-1/User-Manual/User-Manual-3055710) how to use this module in a product. This includes a dimension drawing:
 
-![dimensions ICC-1](images/dimensions-icc1.png)
+![dimensions ICC-1](images/dimensions_icc1.png)
 
 You can take out the board, and hook it up to your own lighting solutions. Or, you can flash it with your [own firmware](#custom-firmware), for other purposes.
 
