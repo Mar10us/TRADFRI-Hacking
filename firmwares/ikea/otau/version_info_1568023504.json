@@ -1,0 +1,208 @@
+[
+	{
+		"fw_binary_url": "http://fw.ota.homesmart.ikea.net/Tradfri_OTA_release_signed_2019_08_27_162854/bin/190579-ncp572b444.ebl.ota.ota.signed",
+		"fw_build_version": 444,
+		"fw_file_version_LSB": 444,
+		"fw_file_version_MSB": 5720,
+		"fw_filesize": 166270,
+		"fw_hotfix_version": 2,
+		"fw_image_type": 2,
+		"fw_major_version": 5,
+		"fw_manufacturer_id": 4476,
+		"fw_minor_version": 7,
+		"fw_type": 1
+	},
+	{
+		"fw_binary_url": "http://fw.ota.homesmart.ikea.net/Tradfri_OTA_release_signed_2019_08_27_162854/bin/10005777-4.1-TRADFRI-control-outlet-2.0.022.ota.ota.signed",
+		"fw_file_version_LSB": 9763,
+		"fw_file_version_MSB": 8194,
+		"fw_filesize": 204222,
+		"fw_image_type": 4353,
+		"fw_manufacturer_id": 4476,
+		"fw_type": 2
+	},
+	{
+		"fw_binary_url": "http://fw.ota.homesmart.ikea.net/Tradfri_OTA_release_signed_2019_08_27_162854/bin/10005778-4.1-TRADFRI-onoff-shortcut-control-2.2.008.ota.ota.signed",
+		"fw_file_version_LSB": 34353,
+		"fw_file_version_MSB": 8704,
+		"fw_filesize": 179582,
+		"fw_image_type": 4549,
+		"fw_manufacturer_id": 4476,
+		"fw_type": 2
+	},
+	{
+		"fw_binary_url": "http://fw.ota.homesmart.ikea.net/Tradfri_OTA_release_signed_2019_08_27_162854/bin/10035514-TRADFRI-bulb-ws-1.2.221.ota.ota.signed",
+		"fw_file_version_LSB": 5490,
+		"fw_file_version_MSB": 4642,
+		"fw_filesize": 172734,
+		"fw_image_type": 8705,
+		"fw_manufacturer_id": 4476,
+		"fw_type": 2
+	},
+	{
+		"fw_binary_url": "http://fw.ota.homesmart.ikea.net/Tradfri_OTA_release_signed_2019_08_27_162854/bin/10035515-TRADFRI-bulb-cws-1.3.009.ota.ota.signed",
+		"fw_file_version_LSB": 38258,
+		"fw_file_version_MSB": 4864,
+		"fw_filesize": 178366,
+		"fw_image_type": 10241,
+		"fw_manufacturer_id": 4476,
+		"fw_type": 2
+	},
+	{
+		"fw_binary_url": "http://fw.ota.homesmart.ikea.net/Tradfri_OTA_release_signed_2019_08_27_162854/bin/10035534-TRADFRI-bulb-ws-gu10-1.2.221.ota.ota.signed",
+		"fw_file_version_LSB": 5490,
+		"fw_file_version_MSB": 4642,
+		"fw_filesize": 172734,
+		"fw_image_type": 8707,
+		"fw_manufacturer_id": 4476,
+		"fw_type": 2
+	},
+	{
+		"fw_binary_url": "http://fw.ota.homesmart.ikea.net/Tradfri_OTA_release_signed_2019_08_27_162854/bin/10037585-5.1-TRADFRI-connected-blind-2.2.009.ota.ota.signed",
+		"fw_file_version_LSB": 38449,
+		"fw_file_version_MSB": 8704,
+		"fw_filesize": 186942,
+		"fw_image_type": 4487,
+		"fw_manufacturer_id": 4476,
+		"fw_type": 2
+	},
+	{
+		"fw_binary_url": "http://fw.ota.homesmart.ikea.net/Tradfri_OTA_release_signed_2019_08_27_162854/bin/10037603-3.1-TRADFRI-signal-repeater-2.2.005.ota.ota.signed",
+		"fw_file_version_LSB": 22065,
+		"fw_file_version_MSB": 8704,
+		"fw_filesize": 189822,
+		"fw_image_type": 4354,
+		"fw_manufacturer_id": 4476,
+		"fw_type": 2
+	},
+	{
+		"fw_binary_url": "http://fw.ota.homesmart.ikea.net/Tradfri_OTA_release_signed_2019_08_27_162854/bin/10038562-TRADFRI-sy5882-bulb-ws-2.0.022.ota.ota.signed",
+		"fw_file_version_LSB": 9763,
+		"fw_file_version_MSB": 8194,
+		"fw_filesize": 209790,
+		"fw_image_type": 16900,
+		"fw_manufacturer_id": 4476,
+		"fw_type": 2
+	},
+	{
+		"fw_binary_url": "http://fw.ota.homesmart.ikea.net/Tradfri_OTA_release_signed_2019_08_27_162854/bin/10039874-1.0-TRADFRI-motion-sensor-2-2.0.022.ota.ota.signed",
+		"fw_file_version_LSB": 9763,
+		"fw_file_version_MSB": 8194,
+		"fw_filesize": 186814,
+		"fw_image_type": 4552,
+		"fw_manufacturer_id": 4476,
+		"fw_type": 2
+	},
+	{
+		"fw_binary_url": "http://fw.ota.homesmart.ikea.net/Tradfri_OTA_release_signed_2019_08_27_162854/bin/10040611-3.2-TRADFRI-sy5882-unified-2.1.022.ota.ota.signed",
+		"fw_file_version_LSB": 9777,
+		"fw_file_version_MSB": 8450,
+		"fw_filesize": 208254,
+		"fw_image_type": 16901,
+		"fw_manufacturer_id": 4476,
+		"fw_type": 2
+	},
+	{
+		"fw_binary_url": "http://fw.ota.homesmart.ikea.net/Tradfri_OTA_release_signed_2019_08_27_162854/bin/10046695-1.1-TRADFRI-light-unified-w-2.1.022.ota.ota.signed",
+		"fw_file_version_LSB": 9777,
+		"fw_file_version_MSB": 8450,
+		"fw_filesize": 202878,
+		"fw_image_type": 16643,
+		"fw_manufacturer_id": 4476,
+		"fw_type": 2
+	},
+	{
+		"fw_binary_url": "http://fw.ota.homesmart.ikea.net/Tradfri_OTA_release_signed_2019_08_27_162854/bin/159495-TRADFRI-transformer-1.2.245.ota.ota.signed",
+		"fw_file_version_LSB": 21874,
+		"fw_file_version_MSB": 4644,
+		"fw_filesize": 181118,
+		"fw_image_type": 16641,
+		"fw_manufacturer_id": 4476,
+		"fw_type": 2
+	},
+	{
+		"fw_binary_url": "http://fw.ota.homesmart.ikea.net/Tradfri_OTA_release_signed_2019_08_27_162854/bin/159695-TRADFRI-bulb-ws-1000lm-1.2.217.ota.ota.signed",
+		"fw_file_version_LSB": 30066,
+		"fw_file_version_MSB": 4641,
+		"fw_filesize": 173246,
+		"fw_image_type": 8706,
+		"fw_manufacturer_id": 4476,
+		"fw_type": 2
+	},
+	{
+		"fw_binary_url": "http://fw.ota.homesmart.ikea.net/Tradfri_OTA_release_signed_2019_08_27_162854/bin/159696-TRADFRI-bulb-w-1000lm-1.2.214.ota.ota.signed",
+		"fw_file_version_LSB": 17778,
+		"fw_file_version_MSB": 4641,
+		"fw_filesize": 168318,
+		"fw_image_type": 8449,
+		"fw_manufacturer_id": 4476,
+		"fw_type": 2
+	},
+	{
+		"fw_binary_url": "http://fw.ota.homesmart.ikea.net/Tradfri_OTA_release_signed_2019_08_27_162854/bin/159697-TRADFRI-driver-hp-1.2.217.ota.ota.signed",
+		"fw_file_version_LSB": 30066,
+		"fw_file_version_MSB": 4641,
+		"fw_filesize": 173246,
+		"fw_image_type": 16898,
+		"fw_manufacturer_id": 4476,
+		"fw_type": 2
+	},
+	{
+		"fw_binary_url": "http://fw.ota.homesmart.ikea.net/Tradfri_OTA_release_signed_2019_08_27_162854/bin/159698-TRADFRI-driver-lp-1.2.217.ota.ota.signed",
+		"fw_file_version_LSB": 30066,
+		"fw_file_version_MSB": 4641,
+		"fw_filesize": 173246,
+		"fw_image_type": 16897,
+		"fw_manufacturer_id": 4476,
+		"fw_type": 2
+	},
+	{
+		"fw_binary_url": "http://fw.ota.homesmart.ikea.net/Tradfri_OTA_release_signed_2019_08_27_162854/bin/159699-5.1-TRADFRI-remote-control-2.3.014.ota.ota.signed",
+		"fw_file_version_LSB": 17969,
+		"fw_file_version_MSB": 8961,
+		"fw_filesize": 182590,
+		"fw_image_type": 4545,
+		"fw_manufacturer_id": 4476,
+		"fw_type": 2
+	},
+	{
+		"fw_binary_url": "http://fw.ota.homesmart.ikea.net/Tradfri_OTA_release_signed_2019_08_27_162854/bin/159700-TRADFRI-motion-sensor-1.2.214.ota.ota.signed",
+		"fw_file_version_LSB": 17778,
+		"fw_file_version_MSB": 4641,
+		"fw_filesize": 157822,
+		"fw_image_type": 4548,
+		"fw_manufacturer_id": 4476,
+		"fw_type": 2
+	},
+	{
+		"fw_binary_url": "http://fw.ota.homesmart.ikea.net/Tradfri_OTA_release_signed_2019_08_27_162854/bin/159701-TRADFRI-wireless-dimmer-1.2.248.ota.ota.signed",
+		"fw_file_version_LSB": 34162,
+		"fw_file_version_MSB": 4644,
+		"fw_filesize": 172926,
+		"fw_image_type": 4546,
+		"fw_manufacturer_id": 4476,
+		"fw_type": 2
+	},
+	{
+		"fw_binary_url": "http://fw.ota.homesmart.ikea.net/Tradfri_OTA_release_signed_2019_08_27_162854/bin/191100-4.1-TRADFRI-sy5882-driver-ws-2.0.022.ota.ota.signed",
+		"fw_file_version_LSB": 9763,
+		"fw_file_version_MSB": 8194,
+		"fw_filesize": 208830,
+		"fw_image_type": 16899,
+		"fw_manufacturer_id": 4476,
+		"fw_type": 2
+	},
+	{
+		"fw_binary_url": "http://fw.ota.homesmart.ikea.net/Tradfri_OTA_release_signed_2019_08_27_162854/bin/10032198-2.1-TRADFRI-gateway-1.9.27.p.elf.sig.ota.signed",
+		"fw_filesize": 746988,
+		"fw_hotfix_version": 27,
+		"fw_major_version": 1,
+		"fw_minor_version": 9,
+		"fw_req_hotfix_version": 28,
+		"fw_req_major_version": 9,
+		"fw_req_minor_version": 9,
+		"fw_type": 0,
+		"fw_update_prio": 5,
+		"fw_weblink_relnote": "https://ww8.ikea.com/ikeahomesmart/releasenotes/releasenotesltd.html"
+	}
+]
